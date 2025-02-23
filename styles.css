@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, serif;
+    font-weight: 400;
+    background-color: peachpuff;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+}
